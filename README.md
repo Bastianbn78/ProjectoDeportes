@@ -144,13 +144,3 @@ Funciones implementadas:
 
 **Bastián Villalobos**
 Ingeniería en Informática – DUOC UC
-
----
-
-## 📄 Licencia
-
-Uso académico y educativo
-
----
-
-Si quieres después le metemos **badges + portada + colores tipo GitHub top repos** 🔥
