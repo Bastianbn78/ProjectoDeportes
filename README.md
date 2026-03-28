@@ -41,21 +41,23 @@ El dataset original contiene **2280 registros** con problemas reales como valore
 ## 📁 Estructura del Proyecto
 
 ```
-ProjectoDeportes/
+
+├── ProjectoDeportes/
+│   ├── data/
+│   │   └── deportistas.csv
+│   │
+│   ├── outputs/
+│   │   ├── deportistas_limpios.csv
+│   │   └── analisis_por_deporte.csv
+│   │
+│   ├── src/
+│   │   ├── limpieza.py
+│   │   ├── analisis.py
+│   │   └── __init__.py
+│   │
+│   └── analisis.ipynb
 │
-├── data/
-│   └── deportistas.csv
-│
-├── outputs/
-│   ├── deportistas_limpios.csv
-│   └── analisis_por_deporte.csv
-│
-├── src/
-│   ├── limpieza.py
-│   ├── analisis.py
-│   └── __init__.py
-│
-├── analisis.ipynb
+├── Guia3.pdf
 └── README.md
 ```
 
